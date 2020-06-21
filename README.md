@@ -1,6 +1,6 @@
 # Sensors
 
-This repository contains all sensor scrits.
+This repository contains all sensor scripts.
 For the moment, we are using a DHT11 Temperature and Humidity Sensor.
 
 ## Dependencies
